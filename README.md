@@ -27,6 +27,6 @@ The goal of this project is to:
 Clone the repository and install dependencies.
 
 ```bash
-git clone https://github.com/yourusername/wine_classification.g
+git clone https://github.com/akshay9681/wine-dataset
 cd wine_classification
 pip install -r requirements.txt
